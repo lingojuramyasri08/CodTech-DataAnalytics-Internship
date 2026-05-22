@@ -112,6 +112,7 @@ Create an interactive dashboard to visualize Titanic dataset insights using Powe
 - Dashboard Design
 - Interactive Reporting
 - Business Insights Generation
+  <img width="1173" height="668" alt="Screenshot of dashboard task3" src="https://github.com/user-attachments/assets/5243021a-8ef3-459f-8d93-4ca6c2744c98" />
 
 ---
 
