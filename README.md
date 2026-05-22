@@ -36,6 +36,10 @@ The objective of this task was to perform data analysis on a large dataset and e
 - Created visualizations and charts
 - Identified patterns related to passenger survival
 
+  <img width="953" height="772" alt="Screenshot of task1" src="https://github.com/user-attachments/assets/7a2543a0-6193-4dda-9bdf-cd89d4065ce0" />
+
+  <img width="640" height="480" alt="task1_img" src="https://github.com/user-attachments/assets/23537d99-b578-4a3b-a230-62a9dcd35012" />
+
 ## Key Insights
 - Female passengers had higher survival rates
 - First-class passengers survived more compared to third-class passengers
@@ -85,6 +89,8 @@ This task helped in understanding:
 - Prediction Techniques
 - Accuracy Evaluation
 
+  <img width="816" height="349" alt="Screenshot of task2" src="https://github.com/user-attachments/assets/15cc13bf-0e4e-43f2-8f32-52b759ee6678" />
+
 ---
 
 # Task 3 - Dashboard Development using Power BI
@@ -112,6 +118,7 @@ Create an interactive dashboard to visualize Titanic dataset insights using Powe
 - Dashboard Design
 - Interactive Reporting
 - Business Insights Generation
+  
   <img width="1173" height="668" alt="Screenshot of dashboard task3" src="https://github.com/user-attachments/assets/5243021a-8ef3-459f-8d93-4ca6c2744c98" />
 
 ---
