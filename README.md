@@ -6,7 +6,7 @@ This repository contains all tasks completed during the CodTech Data Analytics I
 
 # Intern Details
 
-- Name: Ramiya
+- Name: L. Ramya Sri
 - Domain: Data Analytics
 - Internship Provider: CodTech
 - Duration: 4 Weeks
